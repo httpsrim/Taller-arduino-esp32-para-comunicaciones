@@ -1,4 +1,4 @@
-Taller de arduino y ESP32 para las comunicaciones, 24-01-2024. Esta charla es para la II Olimpiada de Teleco.
+Taller de arduino y ESP32 para las comunicaciones, 24-01-2024. Este taller es para la II Olimpiada de Teleco, además del proyecto 6G-CAERUS.
 
 ☆Diapositivas: Están las diapositivas del taller.
 
